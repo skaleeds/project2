@@ -39,8 +39,8 @@ section {
 	text-align: center;
 }
 .destinations-section {
-	display: inline-block;
-	text-align: left;
+	display: block;
+	text-align: center;
 	margin: 0 auto;
 }
 img, iframe {
