@@ -13,6 +13,9 @@ h1, h2, h3 {
 	padding: 5px 10px;
 	margin: 5px;
 }
+h1 {
+	text-align: center;
+}
 section {
 	background-color: #4470B3;
 	display: inline-block;
@@ -21,6 +24,14 @@ section {
 	padding: 10px;
 	margin: 5px;
 	text-align: left;
+}
+.places-text {
+	text-align: center;
+}
+.destinations-section {
+	display: inline-block;
+	text-align: left;
+	margin: 0 auto;
 }
 img, iframe {
 	display: block;
