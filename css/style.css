@@ -18,7 +18,9 @@ h1 {
 }
 section {
 	background-color: #4470B3;
-	display: block;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
 	border: 1px solid #6699ff;
 	border-radius: 10px;
 	padding: 10px;
