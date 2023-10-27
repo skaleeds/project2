@@ -1,17 +1,21 @@
 body{
 	background-color: #ADD8E6
 	font-family: 'Outfit', sans-serif;
+	margin: 0;
 }
 h1, h2, h3 {
 	background-color: #ffcccb;
+	display: inline-block;
 	border: 1px solid #ff6666;
 	border-radius: 10px;
-	padding: 10px;
+	padding: 5px 10px;
+	margin: 5px;
 }
 section {
 	background-color: #4470B3;
+	display: inline-block;
 	border: 1px solid #6699ff;
 	border-radius: 10px;
 	padding: 10px;
-	margin-bottom: 20px;
+	margin: 5px;
 }
