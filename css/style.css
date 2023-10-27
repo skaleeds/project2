@@ -1,3 +1,12 @@
+p{
+	display:block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	marin-inline-end: 0px;
+}
+
+
 body{
 	background-color: #ADD8E6;
 	font-family: 'Outfit', sans-serif;
