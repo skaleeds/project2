@@ -29,3 +29,6 @@ nav li {
 	display: inline;
 	margin: 0 10px;
 }
+nav a:hover {
+	backround-color: #ffcccb;
+}
