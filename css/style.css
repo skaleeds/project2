@@ -2,6 +2,7 @@ body{
 	background-color: #ADD8E6
 	font-family: 'Outfit', sans-serif;
 	margin: 0;
+	padding: 0;
 }
 h1, h2, h3 {
 	background-color: #ffcccb;
@@ -25,12 +26,18 @@ nav{
 	text-align: center;
 	padding: 10px 0;
 }
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
 nav li {
 	display: inline;
 	margin: 0 10px;
 }
 nav a {
-	color: ##44770B3;
+	text-decoration: none;
+	color: #4470B3;
 	padding: 5px 10px;
 	border: 1px solid #333;
 	border-radius: 10px;
@@ -38,7 +45,7 @@ nav a {
 	display: inline-block;
 }
 nav a:hover {
-	backround-color: #ffcccb;
+	background-color: #ffcccb;
 }
 .container {
 	max-width: 800px;
