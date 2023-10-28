@@ -54,7 +54,6 @@ img, iframe {
 }
 nav{
 	background-color: #5B7882;
-	color: white;
 	text-align: center;
 	padding: 10px 0;
 }
@@ -69,6 +68,7 @@ nav li {
 }
 nav a {
 	text-decoration: none;
+	color: white;
 	background-color: #406a7d;
 	padding: 5px 10px;
 	border: 1px solid #333;
