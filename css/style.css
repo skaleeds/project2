@@ -33,6 +33,13 @@ section {
 	text-align: center;
 	margin: 0 auto;
 }
+.destination:hover {
+	background-color: #EDCC1A;
+	transition: background-color 0.3s;
+}
+#page-title {
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 img, iframe {
 	display: block;
 	margin: 0 auto;
