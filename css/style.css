@@ -69,7 +69,7 @@ nav ul {
 	margin: 0;
 }
 nav li {
-	display: block;
+	display: inline;
 	margin: 0 10px;
 }
 nav a {
