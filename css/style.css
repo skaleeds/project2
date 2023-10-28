@@ -79,11 +79,13 @@ nav a {
 	padding: 5px 10px;
 	border: 1px solid #333;
 	border-radius: 10px;
-	transition: background-color 0.3s;
+	transition: background-color 0.3s, color 0.3s;
 	display: inline-block;
 }
 nav a:hover {
 	background-color: #ffcccb;
+	color: black;
+	transition: background-color 0.3s, color 0.3s;
 }
 .container {
 	width: 80%;
