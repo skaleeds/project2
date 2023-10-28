@@ -7,7 +7,7 @@ body{
 }
 h1, h2, h3 {
 	background-color: #ffcccb;
-	display: inline-block;
+	display: block;
 	border: 1px solid #ff6666;
 	border-radius: 10px;
 	padding: 5px 10px;
@@ -18,7 +18,7 @@ h1 {
 }
 section {
 	background-color: #4470B3;
-	display: inline-block;
+	display: block;
 	border: 1px solid #6699ff;
 	border-radius: 10px;
 	padding: 10px;
