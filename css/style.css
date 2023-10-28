@@ -28,10 +28,11 @@ section {
 .places-text {
 	text-align: center;
 }
-.top-title {
+.title-desc {
 	display: inline-block;
 	padding: 10px;
 	margin: 5px;
+	text-align: center;
 }
 .destinations-section {
 	display: block;
