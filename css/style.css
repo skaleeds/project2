@@ -91,7 +91,7 @@ nav a:hover {
 	padding: 20px;
 }
 .zoom-img {
-	width: 200px;
+	width: 800px;
 	transition: transform 0.2s, box-shadow 0.3s;
 }
 .zoom-img:hover {
