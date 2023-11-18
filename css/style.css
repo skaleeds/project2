@@ -101,7 +101,12 @@ nav a:hover {
 	padding: 20px;
 }
 section.float-left (
-  float:left;
+  float: left;
   width: 40%;
   margin-right; 4%;
+)
+section.float-right(
+  float: right;
+  width: 40%;
+  margin-left: 4%;
 )
